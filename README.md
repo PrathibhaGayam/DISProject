@@ -32,9 +32,7 @@ In code, to see local mapper.py & reducer.py, type:
 
 $ ls
 
-$ cd Nitheesha 
- 
-$ cd Prathibha
+$ cd Nitheesha # for nitheeshas folder type this command
 
 Put a copy of VideoGames.txt into HDFS myinput directory.
 
