@@ -85,5 +85,12 @@ $ ls
 mapper.py reducer.py intermediate.txt completeResults.txt
 
 completeResults.txt will have the results for our map reduce problem
+
+#### Output- Developers list with Maximum number of sales
+
+![1](1.PNG)
+
+
+
 Contact GitHub API Training Shop Blog About
 © 2017 GitHub, Inc. Terms Privacy Security 
