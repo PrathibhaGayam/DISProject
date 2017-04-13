@@ -1,0 +1,1670 @@
+"10tacle Studios, Fusionsphere Systems" 	0.21
+"1C, 1C Company" 	0.06
+"1C, Ino-Co, 1C Company" 	0.03
+"505 Games, Sarbakan Inc." 	0.12
+"Activision, Activision Blizzard" 	0.18
+"Activision, Behaviour Interactive" 	0.11
+"Activision, FreeStyleGames" 	0.92
+"Activision, Traveller's Tales" 	0.18
+"Alawar Entertainment, Inc, Alawar Entertainment" 	0.08
+"Alchemist, Inti Creates" 	0.08
+"Amaze Entertainment, Griptonite Games" 	0.67
+"Amaze Entertainment, Vivendi Games" 	0.22
+"Amaze Entertainment, Walt Disney Japan" 	0.32
+"Ambrella, The Pokemon Company" 	0.18
+"Aqua Pacific, In2Games" 	0.27
+"Armature Studio, comcept" 	0.29
+"Art Co., Ltd." 	0.14
+"Artificial Mind and Movement, EA Redwood Shores" 	0.37
+"Artificial Mind and Movement, Polygon Magic" 	1.55
+"Artificial Studios, Immersion Software & Graphics" 	0.22
+"Ascaron Entertainment GmbH, Ascaron Entertainment" 	2.42
+"Asmik Ace Entertainment, Inc" 	0.32
+"Aspect, Takara Tomy" 	0.44
+"Atari, Atari SA" 	0.47
+"Atari, Slightly Mad Studios, Atari SA" 	0.09
+"Atari, Transmission Games, Atari SA" 	0.32
+"Atlus, Dingo Inc." 	0.64
+"Atomic Planet Entertainment, Mud Duck Productions" 	0.04
+"Bandai Namco Games, Artdink" 	1.22
+"Banpresto, SoftMax" 	0.59
+"Battlefront.com, 1C, 1C Company" 	0.02
+"Beenox, Other Ocean Interactive" 	0.28
+"Big Blue Bubble Inc., Breakthrough New Media" 	0.06
+"Big Blue Bubble Inc., Scholastic, Inc." 	0.26
+"Bigben Interactive, Red Wagon Games" 	0.02
+"BioWare, Demiurge Studios" 	1.34
+"Blitz Games, Human Soft" 	0.33
+"Blue Byte, Related Designs" 	3.61
+"Buddiez, Inc." 	0.33
+"Buka Entertainment, Targem Games" 	0.1
+"Bungie Software, Bungie" 	58.04
+"Buzz Monkey, EA Montreal" 	0.65
+"Camouflaj, LLC" 	0.03
+"Capcom, Klein Computer Entertainment" 	0.65
+"Capcom, Pipeworks Software, Inc." 	2.49
+"Capcom, QLOC" 	0.12
+"City Interactive, Deck 13" 	1.54
+"Climax Group, Climax Studios" 	4.39
+"Compile Heart, GCREST" 	0.3
+"Crave, DTP Entertainment" 	0.19
+"Crystal Dynamics, Nixxes Software" 	3.0
+"Cyanide, Cyanide Studios" 	1.13
+"CyberConnect2, Racjin" 	2.35
+"CyberPlanet Interactive Public Co., Ltd." 	0.03
+"CyberPlanet Interactive Public Co., Ltd., Maximum Family Games" 	0.06
+"DMA Design, Rockstar North" 	0.02
+"Deep Silver, Keen Games" 	0.21
+"Deep Silver, Sproing Interactive Media, Sproing" 	0.42
+"Dice, Danger Close" 	6.2
+"Digital Extremes, 2K Marin" 	2.84
+"Dimps Corporation, Namco Bandai Games" 	2.69
+"Dimps Corporation, SCE Japan Studio" 	1.3
+"Dimps Corporation, Sonic Team" 	6.24
+"Disney Interactive Studios, Land Ho!" 	0.57
+"EA Canada, EA Vancouver" 	1.14
+"EA Canada, Exient Entertainment" 	0.18
+"EA Canada, Nihilistic" 	2.86
+"EA Canada, Sensory Sweep" 	0.17
+"EA DICE, Danger Close" 	5.62
+"EA Redwood Shores, EA Salt Lake" 	2.18
+"EA Sports, EA Canada" 	2.22
+"EA Sports, EA Vancouver" 	22.95
+"EA Tiburon, n-Space" 	0.22
+"Edge Entertainment, Anima Project" 	0.04
+"Eidos Interactive, Tantalus Interactive" 	0.1
+"Eidos Montreal, Nixxes Software" 	0.06
+"Eighting, Genius Sonority Inc." 	1.41
+"Eighting, Takara Tomy" 	0.36
+"Electronic Arts, EA Redwood Shores" 	2.07
+"Electronic Arts, Rebellion" 	4.18
+"Engine Software, Re-Logic" 	0.06
+"Entersphere, Inc." 	0.19
+"Epic Games, People Can Fly" 	3.41
+"Eurocom Entertainment Software, Visceral Games" 	0.94
+"Eutechnyx, Deep Silver" 	0.2
+"Examu, Marvelous Inc." 	0.07
+"Factor 5, SCE/WWS" 	1.02
+"Farsight Studios, Crave" 	1.13
+"Flagship, HAL Labs" 	3.87
+"Frogwares, Mistic Software" 	0.79
+"Frontier Developments, Various" 	0.05
+"Frozenbyte, Inc." 	0.1
+"Funatics Software, Funatics" 	0.42
+"Fusionsphere Systems, Animation Arts" 	0.07
+"Game Arts, Japan Art Media (JAM)" 	0.24
+"Game Arts, Seta Corporation" 	0.31
+"Game Republic, JapanStudio" 	0.64
+"GameMill Publishing, 1st Playable Productions" 	0.72
+"Gameinvest, Seed Studios, Lda" 	0.06
+"Gearbox Software, 3D Realms" 	4.01
+"Gearbox Software, WayForward" 	0.32
+"Genius Sonority Inc., Disney Interactive Studios" 	3.03
+"Genki, Kojima Productions" 	0.3
+"Gust, Idea Factory" 	0.35
+"HAL Labs, Creatures Inc." 	4.55
+"Harmonix Music Systems, Backbone Entertainment" 	0.96
+"Harmonix Music Systems, Demiurge Studios" 	1.63
+"High Moon Studios, Mercenary Technologies" 	0.02
+"High Voltage Software, Backbone Entertainment" 	1.87
+"High Voltage Software, Ubisoft Paris" 	1.05
+"Hudson, NATSUME ATARI Inc." 	0.46
+"Human Soft, Ivolgamus" 	1.76
+"Humongous Entertainment, Mistic Software" 	0.12
+"Idea Factory, Compile Heart" 	1.45
+"Image Epoch, Imageepoch" 	3.63
+"Infinite Dreams, Paragon 5" 	0.02
+"Infinity Ward, Sledgehammer Games" 	59.54
+"Interworks Unlimited, Inc." 	0.02
+"Inti, Inti Creates" 	0.62
+"Introversion, Double Eleven" 	0.06
+"Io Interactive, Nixxes Software" 	0.48
+"IronNos Co.,Ltd." 	0.12
+"Irrational Games, 2K Marin" 	6.49
+"Jack of All Games, eV Interactive" 	0.18
+"Jellyvision, Iron Galaxy Studios" 	1.17
+"Joindots, Mastertronic" 	0.21
+"Jupiter Corporation, Jupiter Multimedia" 	1.02
+"K2, Kurogane" 	0.27
+"Koei, Omega Force" 	5.45
+"Kojima Productions, Moby Dick Studio" 	9.97
+"Krome Studios, Screenlife Games" 	1.3
+"Kush Games, Visual Concepts" 	2.77
+"LDW, Big Fish Games" 	0.52
+"Lancarse, Atlus" 	0.65
+"Left Field Productions, Zoo Games" 	0.12
+"Level 5, Brownie Brown" 	2.26
+"Lexis Numerique, Virtual Toys" 	6.41
+"LucasArts, BioWare" 	5.93
+"LucasArts, Krome Studios" 	2.23
+"LucasArts, Red Fly Studio" 	1.52
+"Luxoflux, Inc." 	24.18
+"Mac Play, MacPlay" 	0.56
+"Machatin, Inc." 	1.55
+"Machineworks Northwest, WXP" 	0.06
+"Mad Doc Software, Rockstar Vancouver" 	2.18
+"Majesco Games, Majesco" 	6.98
+"Mastertronic, V5 Play Studio" 	0.18
+"Matrix Software, Marvelous Entertainment" 	0.48
+"Media Molecule, United Front Games" 	1.75
+"Media Vision, Contrail" 	1.24
+"Mediascape, CUBETYPE" 	0.04
+"Mercury Steam, Alchemic Productions" 	1.05
+"Metanet Software Inc., SilverBirch Studios" 	0.19
+"MicroProse, n-Space" 	0.64
+"Microids, Dreamcatcher" 	0.26
+"Milestone, Milestone S.r.l" 	0.17
+"Mindscape Inc., Mindscape" 	0.24
+"Mistwalker, Artoon" 	3.18
+"Monolith Soft, Banpresto" 	0.78
+"Monolith Soft, Namco Bandai Games" 	0.2
+"Namco Bandai Games America, Namco Bandai Games" 	4.86
+"Namco Bandai Games, Bandai Namco Games" 	1.12
+"Namco Bandai Games, Cellius" 	0.34
+"Namco Bandai Games, Monkey Bar Games" 	0.4
+"Naughty Dog, SCE/WWS" 	9.84
+"Naughty Dog, Sony Bend" 	3.07
+"Neon Studios, Kaiko" 	0.07
+"Neverland, Idea Factory" 	0.39
+"Neversoft Entertainment, BudCat" 	9.97
+"Neversoft Entertainment, Underground Development" 	0.58
+"Next Level Games, Nintendo" 	0.09
+"Nintendo, Camelot Software Planning" 	0.88
+"Nintendo, Headstrong Games" 	0.93
+"Nintendo, Intelligent Systems" 	0.84
+"Nintendo, Namco Bandai Games" 	7.65
+"Nintendo, Nd Cube" 	8.44
+"Nintendo, Nintendo Software Technology" 	2.52
+"Nintendo, Spike Chunsoft" 	2.54
+"Nippon Ichi Software, Hit Maker" 	0.23
+"Number None Inc., Knockout Games" 	0.05
+"Omega Force, Koei Canada" 	0.4
+"Omega Force, Koei Tecmo Games" 	1.52
+"Omega Force, Tecmo Koei Games" 	2.36
+"Omiya Soft, Jamsworks" 	0.32
+"Opus, Project Sora" 	2.53
+"Orbital Media, Inc." 	0.23
+"PLAYGROUND, Playground Games" 	3.93
+"PM Studios Inc., Pentavision Entertainment" 	0.06
+"Pam Development, 2K Sports" 	0.27
+"Phosphor Games Studio, LLC" 	0.26
+"Pipeworks Software, Inc." 	26.08
+"Playlogic, The Game Factory" 	0.67
+"Prope, Kadokawa" 	0.31
+"Punchline, Shirogumi" 	0.04
+"RED Entertainment, Artdink" 	1.34
+"RED Entertainment, Compile Heart" 	0.2
+"RED Entertainment, Spike Chunsoft" 	0.72
+"Rare Ltd., BigPark" 	4.68
+"Ready at Dawn, SCE Santa Monica" 	5.11
+"Rebellion, Neversoft Entertainment" 	0.12
+"Red Storm Entertainment, Ubisoft Montreal" 	1.61
+"Red Storm Entertainment, Ubisoft Paris" 	4.1
+"Red Tribe, Brash Entertainment" 	0.29
+"Reloaded Productions, Reloaded Games Inc." 	0.07
+"Replay Studios, ML Enterprises" 	0.36
+"Retro Studios, Entertainment Analysis & Development Division" 	25.31
+"Ritual Entertainment, Avalanche Software" 	1.18
+"Rockstar Toronto, Rockstar Leeds" 	0.53
+"Rocksteady Studios, Iron Galaxy Studios" 	0.26
+"Rocksteady Studios, Virtuos" 	0.75
+"Rovio Mobile, Rovio Entertainment" 	1.49
+"SCE Japan Studio, comcept" 	1.02
+"SCE/WWS, Media Molecule" 	16.72
+"SCE/WWS, SCE Japan Studio" 	0.18
+"SCEA, Sims" 	1.39
+"SCEA, Think and Feel" 	0.4
+"SCEA, Zindagi Games" 	7.69
+"SCEE, Zoe Mode" 	8.41
+"Sandlot Games, Digital Embryo" 	0.28
+"Sanuk Software Co., Ltd., Sanuk Games" 	0.04
+"Sanzaru Games, Sanzaru Games, Inc." 	0.4
+"Scholastic, Inc." 	1.06
+"Screenlife Games, WXP" 	0.96
+"Seamless Entertainment, Inc." 	0.21
+"Sega, Dimps Corporation" 	2.03
+"Sega, French-Bread" 	0.31
+"Sega, Sonic Team" 	3.57
+"Sega, Tom Create" 	0.4
+"Shift, Bandai Namco Games" 	1.85
+"Sony Online Entertainment, Mind Control Software" 	0.31
+"Spark Unlimited, comcept" 	0.28
+"Spidersoft, Spiders" 	0.02
+"Spike Chunsoft Co. Ltd., Spike Chunsoft" 	2.5
+"Spike Chunsoft, Chime" 	0.28
+"Spike, Namco Bandai Games" 	8.05
+"Splash Damage, The Coalition" 	6.56
+"Square Enix, TOSE" 	0.89
+"Square Enix, Think and Feel" 	2.75
+"Square Enix, Tri-Ace" 	3.02
+"Square Enix, h.a.n.d. Inc." 	1.87
+"Sumo Digital, Playground Games" 	1.56
+"THQ, 1C, 1C Company" 	0.1
+"THQ, AWE Games" 	0.2
+"THQ, Altron" 	0.3
+"THQ, Independent Arts" 	0.17
+"THQ, Yuke's" 	2.54
+"Taito Corporation, 505 Games" 	0.16
+"Tamsoft, D3Publisher" 	0.49
+"Tantalus Interactive, Tantatus, Nintendo" 	2.06
+"Targem Games, TopWare Interactive" 	0.13
+"Tarsier Studios, Double Eleven" 	2.5
+"Team 17, Two Tribes" 	1.58
+"Team Ninja, Tecmo" 	2.39
+"Tecmo, Graphic Research" 	0.02
+"Tecmo, Ntreev Soft" 	0.68
+"Telegames, Inc." 	0.03
+"Terminal Reality, 4mm Games" 	1.88
+"Tetris Online, Inc" 	2.65
+"TimeGate Studios, Day 1 Studios" 	0.18
+"Torus Games, Little Orbit" 	0.36
+"Treyarch, Infinity Ward" 	0.11
+"Treyarch, Shaba Games" 	1.48
+"Treyarch, Sledgehammer Games" 	1.65
+"UFO Interactive, CyberPlanet Interactive Public Co., Ltd." 	0.04
+"Ubisoft Barcelona, Ubisoft Reflections" 	0.93
+"Ubisoft Paris, Ubisoft Montpellier" 	13.76
+"Ubisoft Reflections, Ivory Tower" 	5.04
+"Ubisoft, FunHouse" 	0.14
+"Ubisoft, Ludia Inc." 	0.37
+"Ubisoft, Moss" 	0.26
+"Ubisoft, Powerhead Games" 	0.68
+"Ubisoft, Sensory Sweep" 	1.63
+"Ubisoft, Ubisoft Montreal" 	16.02
+"United Coders, Wizardry Engineering" 	0.04
+"Valuewave Co.,Ltd." 	2.11
+"Venan Entertainment, Cashmere Prod." 	0.26
+"Vicarious Visions, Neversoft Entertainment" 	1.92
+"Vicious Cycle, Infinite Interactive" 	0.03
+"Vicious Cycle, Little Orbit" 	0.14
+"Viva Media, Viva Media, LLC" 	0.14
+"Volition Inc., CD Projekt Red Studio, CD Projekt, CD Projekt Localisation Centre" 	0.08
+"Volition Inc., Reactor Zero" 	0.07
+"Warner Bros. Interactive Entertainment, NetherRealm Studios" 	8.32
+"Yuke's, Yuke's Company of America" 	0.03
+"Z-Axis, Ltd." 	9.96
+"Zoe Mode, HB Studios Multimedia" 	1.45
+"id Software, Nerve Software" 	1.42
+"id Software, Raven Software" 	2.48
+10tacle Studios 	0.32
+1C: Maddox Games 	0.19
+1C:Ino-Co 	0.04
+1st Playable Productions 	11.86
+2015 	0.5
+2D Boy 	0.08
+2K Australia 	3.25
+2K Czech 	9.07
+2K Games 	1.98
+2K Marin 	9.01
+2K Play 	0.26
+2K Shanghai 	0.52
+2K Sports 	6.7
+2XL Games 	0.82
+343 Industries 	39.65
+369 Interactive 	0.24
+3DO 	5.66
+3G Studios 	2.67
+3d6 Games 	4.01
+49Games 	4.82
+4A Games 	1.93
+4J Studios 	6.99
+5000ft 	0.21
+505 Games 	6.57
+5TH Cell 	12.92
+5pb 	1.04
+7 Studios 	6.38
+777 Studios 	0.02
+7Raven Studios 	0.08
+8Monkey Labs 	0.2
+8ing/Raizing 	5.12
+989 Sports 	16.58
+ACOT 	0.26
+AI 	1.54
+AQ Interactive 	1.14
+AWE Games 	1.86
+Access Games 	2.1
+Acclaim 	16.77
+Acclaim Studios Austin 	3.97
+Acclaim Studios Cheltenham 	8.39
+Acclaim Studios Manchester 	0.35
+Acquire 	9.63
+Activision 	33.95
+Activision Value 	0.64
+Adrenium 	1.9
+Agatsuma Entertainment 	0.22
+Agenda 	6.9
+Agetec 	0.04
+Airtight Games 	2.89
+Akella 	0.61
+Aki Corp. 	10.8
+Alfa System 	5.21
+Alpha Unit 	0.47
+Alphadream Corporation 	0.44
+Altron 	20.87
+Amaze 	0.5
+Amaze Entertainment 	19.99
+Amble 	0.64
+Ambrella 	4.59
+Amedio 	0.16
+Amusement Vision 	11.3
+Amuze 	0.88
+Anchor 	2.82
+Anchor Bay Entertainment 	0.16
+Ancient 	0.04
+Andamiro U.S.A. Corp. 	0.15
+Angel Studios 	7.2
+Animation Arts 	0.23
+Anino Entertainment 	0.12
+ApolloSoft 	0.04
+Appaloosa Interactive 	1.78
+Aqua Pacific 	0.17
+Aqua Plus 	0.31
+Arc System Works 	14.16
+Arcade Moon 	2.01
+ArenaNet 	4.82
+Argonaut Games 	16.19
+Arika 	6.99
+Arkane Studios 	8.54
+Arkedo Studio 	0.14
+Armature Studio 	1.39
+Arrowhead Game Studios 	0.06
+Art 	7.96
+Artdink 	1.12
+ArtePiazza 	10.35
+Artech Studios 	1.62
+Artefacts Studio 	6.1
+Artificial Mind and Movement 	35.68
+Artoon 	9.57
+Arts Software 	0.21
+Arzest 	2.76
+Ascaron Entertainment GmbH 	0.19
+Asobo Studio 	11.04
+Aspect 	2.39
+Aspyr 	0.68
+Astroll 	0.28
+Asylum Entertainment 	0.37
+Atari 	4.1
+Atlus 	14.43
+Atlus Co. 	6.43
+Atomic Games 	0.02
+Atomic Motion 	0.23
+Atomic Planet Entertainment 	3.87
+Attention Software 	0.26
+Attention To Detail 	1.38
+Attractive Games 	0.13
+Autumn Moon 	0.07
+Avalanche Software 	25.38
+Avalanche Studios 	13.12
+Avanquest Software 	2.97
+Avit-Niigata 	0.1
+Awesome Play Ltd. 	0.14
+Awesome Studios 	1.11
+Axis Entertainment 	0.33
+B-Alive 	0.06
+BIP Games 	0.24
+Babylon Software 	0.05
+Backbone Emeryville 	0.38
+Backbone Entertainment 	21.04
+Backbone Vancouver 	1.18
+Bam Entertainment 	1.77
+Bandai 	5.74
+Bandai Namco Games 	19.47
+Banpresto 	0.61
+Barking Lizards 	2.97
+Barnhouse Effect 	2.3
+Barnstorm Games 	2.82
+BattleBorne 	0.18
+BattleGoat Studios 	0.07
+Bec 	1.62
+BeeWorks 	0.4
+Beenox 	13.37
+Beep Industries 	0.24
+Behavior Studios 	0.22
+Behaviour Interactive 	5.08
+Beluga Computer 	0.04
+Best Way 	0.14
+Bethesda Game Studios 	83.19
+Bethesda Softworks 	19.35
+Beyond Games 	1.16
+Beyond Reality 	0.75
+Big Ant Studios 	0.86
+Big Blue Box 	5.32
+Big Blue Bubble Inc. 	3.08
+Big Blue Entertainment 	0.22
+Big Fish Games 	0.07
+Big Head Games Ltd. 	0.22
+Big Huge Games 	4.32
+Big John Games 	0.12
+Big Red Button Entertainment 	0.62
+Big Red Software 	0.02
+Big Sky Software 	2.74
+Big Time Software 	0.06
+BigPark 	2.86
+Bigbig Studios 	3.29
+BioWare 	61.24
+Bionic Games 	0.22
+Bit Town 	0.44
+Bitmap Brothers 	0.36
+Bits Studios 	1.45
+Bizarre Creations 	11.3
+Black Bean Games 	0.02
+Black Box 	22.25
+Black Hole Games 	0.28
+Black Isle Studios 	1.97
+Black Lantern Studios 	11.58
+Black Ops Entertainment 	5.74
+Black Rock Studio 	8.25
+Black Sea Studios 	0.1
+Black Ship Games 	0.3
+Blade Interactive 	1.48
+Blast! Entertainment Ltd 	0.14
+Blitz Games 	23.49
+Blitz Games Studios 	7.38
+Blizzard Entertainment 	81.51
+Blizzard North 	2.37
+Blue 52 	0.07
+Blue Byte 	2.15
+Blue Castle Games 	11.13
+Blue Fang Games 	3.38
+Blue Omega 	0.33
+Blue Planet Software 	4.17
+Blue Shift 	1.46
+Blue Tea Games 	0.02
+Blue Tongue 	1.45
+Blue Tongue Entertainment 	6.58
+Bluehole Studio 	0.84
+Bluepoint Games 	18.51
+Blueshift 	0.46
+Blueside 	0.74
+Bohemia Interactive 	0.64
+Bongfish 	0.49
+Boomzap 	0.04
+Boston Animation 	0.02
+BottleRocket Entertainment 	0.48
+Box Clever Interactive 	0.13
+Boxed Dream 	0.04
+Brain Toys 	1.77
+Brainbox Games 	0.12
+Braingame 	0.09
+Brash Entertainment 	1.26
+Bright Future GmbH 	0.09
+Broadsword Interactive 	0.47
+Brownie Brown 	2.18
+BudCat 	12.95
+Buena Vista Games 	0.53
+Buena Vista Interactive 	0.68
+Bugbear 	3.42
+Bullets 	1.77
+Bullfrog Productions 	10.44
+Bungie 	32.09
+Bungie Software 	31.21
+Bunkasha Publishing 	1.14
+Buzz Monkey 	2.79
+CAProduction 	7.34
+CCP 	0.6
+CD Projekt Red Studio 	16.47
+CI Games 	0.19
+Camelot Software Planning 	17.98
+Capcom 	231.28
+Capcom Vancouver 	4.45
+Carapace 	0.1
+Carbine Studios 	0.32
+Career Soft 	0.66
+Cat Daddy Games 	17.64
+Cattle Call 	1.44
+Cauldron Ltd. 	1.32
+Cave 	0.87
+Cave Barn 	0.11
+Cavia Inc. 	12.23
+Celeris 	0.06
+Cerasus Media 	1.61
+Certain Affinity 	7.01
+Check Six Games 	3.94
+Chris Sawyer 	2.58
+ChunSoft 	8.65
+CiRCLE 	0.1
+Cinegroupe 	1.74
+Cinemaware 	0.37
+Cing 	2.51
+Circus Freak 	0.84
+City Interactive 	9.12
+Clap Hanz 	17.23
+Classic Media Distribution Limited 	0.8
+Climax Entertainment 	0.78
+Climax Group 	17.58
+Climax Studios 	0.33
+Clockwork Games 	0.24
+Clover Studio 	4.36
+CodeFire 	0.64
+Codemasters 	44.14
+Codemasters Birmingham 	7.12
+Codo Games 	0.1
+Coffee Stain Studios 	0.02
+Cohort Studios 	0.68
+CokeM Interactive 	2.02
+Coldwood Interactive 	1.46
+Collision Studios 	3.21
+Colossal Order 	0.38
+Compile Heart 	2.16
+Compulsion Games 	0.02
+Computer Artworks 	1.29
+Confounding Factor 	0.06
+Conspiracy Entertainment 	0.32
+Contraband Entertainment 	1.0
+Cooking Mama Limited 	5.24
+Core Design Ltd. 	25.75
+Coresoft 	4.41
+Cosmigo 	0.56
+Cowboy Rodeo 	0.1
+Coyote Console 	0.95
+Coyote Developments 	0.74
+Crafts & Meister 	0.74
+Cranky Pants Games 	0.75
+Crave 	5.6
+Crawfish Interactive 	1.3
+Crea-Tech 	0.05
+Creat Studios 	3.4
+Creations 	1.0
+Creative Assembly 	18.91
+Creative Patterns 	0.42
+Creatures Inc. 	6.43
+Crispy's 	0.52
+Criterion Games 	40.5
+Croteam 	0.49
+Cryptic Studios 	0.04
+Crystal Dynamics 	21.93
+Crytek 	15.88
+Culture Brain 	0.28
+Cunning Developments 	1.48
+Curious Pictures 	0.48
+Curly Monsters 	0.25
+Cyan Worlds 	4.91
+Cyanide 	0.59
+Cyber Planet 	0.05
+CyberConnect2 	25.22
+Cyberlore Studios 	1.36
+Cygames 	1.72
+D3Publisher 	2.7
+DC Studios 	7.34
+DMA Design 	33.04
+DMi Games 	0.34
+DONTNOD Entertainment 	2.26
+DSI Games 	0.47
+DTP Entertainment 	0.35
+Daedalic Entertainment 	0.2
+Dancing Dots 	2.46
+Danger Close 	5.79
+Darkworks 	0.66
+Data Design Interactive 	2.26
+David A. Palmer Productions 	1.93
+Day 1 Studios 	7.85
+Deadline Games 	0.26
+Dearsoft 	1.46
+Deck 13 	0.59
+Deep Fried Entertainment 	0.42
+Deep Red 	0.04
+Deep Silver 	1.31
+Deep Silver Dambuster Studios 	1.05
+Deep Space 	1.09
+Deibus Studios 	1.98
+Delphine Software International 	1.34
+Delta Factory 	0.08
+Denyu-Sha 	0.61
+Design Factory 	0.13
+Destination Software 	1.8
+Destineer 	4.8
+DiP Interactive 	0.12
+Digital Anvil 	1.77
+Digital Eclipse 	29.0
+Digital Embryo 	0.4
+Digital Extremes 	5.77
+Digital Fiction 	0.58
+Digital Illusions 	9.35
+Digital Kids 	4.59
+Digital Leisure Inc. 	0.16
+Digital Mayhem 	0.4
+Dimps Corporation 	36.62
+Direct Action Games 	0.2
+Disney Interactive 	1.4
+Disney Interactive Studios 	7.16
+Doki Denki 	0.3
+Dorasu 	0.28
+Double Fine Productions 	5.1
+Double Helix Games 	16.08
+DoubleTap Games 	0.58
+Doublesix 	0.14
+Dovetail Games 	0.08
+Dracue 	0.04
+DreamCatcher Interactive 	0.07
+DreamFactory 	2.34
+DreamRift 	0.12
+Dreamcatcher 	1.74
+Dreamworks Games 	1.19
+Dreamworks Interactive 	7.28
+Dusenberry Martin Racing 	0.17
+EA Black Box 	38.35
+EA Bright Light 	21.91
+EA Canada 	284.62
+EA Chicago 	12.62
+EA DICE 	102.01
+EA Games 	29.36
+EA Japan Studio 	0.11
+EA LA 	40.59
+EA Montreal 	13.99
+EA Mythic 	0.04
+EA Phenomic 	0.02
+EA Redwood Shores 	40.48
+EA Salt Lake 	8.13
+EA Seattle 	3.23
+EA Sports 	348.82
+EA Sports Big 	5.25
+EA Tiburon 	192.33
+EA Vancouver 	7.47
+EC Interactive Games 	0.06
+ECI 	0.17
+EKO Software 	1.02
+EM Studios 	0.3
+Eagle Dynamics 	0.07
+Easy Interactive 	0.08
+Eden 	2.99
+Eden Studios 	3.94
+Edge of Reality 	15.41
+Egosoft 	0.21
+Eiconic Games 	0.33
+Eidos Interactive 	1.65
+Eidos Montreal 	6.58
+Eighting 	2.99
+Eighting/Raizing 	2.04
+Electronic Arts 	132.48
+Elixir Studios 	0.03
+Empire Interactive 	0.86
+Empire Oxford 	0.46
+Empty Clip Studios 	0.02
+Endemol 	3.58
+Engine Software 	2.98
+Enigma Software Productions 	0.04
+EnjoyUp Games 	0.07
+Enlight Software 	0.06
+Ensemble Studios 	6.78
+Enterbrain 	0.14
+Epic Games 	45.41
+Epicenter Interactive 	0.14
+Epicenter Studios 	1.48
+Epics 	0.43
+Equinoxe 	1.42
+Escape 	0.37
+Etranges Libellules 	7.76
+Eugen Systems 	2.06
+Eurocom Entertainment Software 	47.31
+Eutechnyx 	9.35
+Evolution Games 	2.1
+Evolution Studios 	15.82
+Exakt 	13.67
+Examu 	1.04
+Exient Entertainment 	19.65
+Experience Inc. 	0.59
+Extra Mile Studios 	0.16
+F84 Games 	0.08
+FAKT Software 	0.04
+FASA Studio 	2.68
+FUN Labs 	15.57
+Factor 5 	5.4
+Falcom 	3.1
+Fall Line Studio 	0.88
+Farmind Ltd 	0.11
+Farsight Studios 	8.53
+Farsight Technologies 	0.03
+Fatshark AB 	0.3
+FeelPlus 	1.13
+Felistella 	0.3
+Firaxis Games 	13.62
+FireFly Studios 	0.61
+Firebrand Games 	6.34
+Firehazard Studio 	0.4
+Fizz Factor 	0.67
+Flagship 	2.85
+Flagship Studios 	0.04
+Flight-Plan 	0.59
+Fluid Studios 	0.12
+Flying Lab Software 	0.03
+Flying Tiger Development 	0.1
+Foreign Media 	0.15
+Foundation 9 Entertainment 	0.17
+Fox Interactive 	9.32
+Frame Studios Interactive 	0.38
+Free Radical Design 	7.88
+FreeStyleGames 	12.39
+Freedom Factory Studios 	0.26
+Fresh 3D 	0.11
+Frima Studio 	0.43
+Frogwares 	1.47
+From Software 	35.86
+FrontLine Studios 	0.83
+Frontier Developments 	13.25
+FuRyu 	1.0
+Full Fat 	10.49
+Full-Fat 	1.97
+Funbox Media 	0.04
+Funcom 	0.78
+Fuse Games Limited 	1.88
+Fusionsphere Systems 	0.08
+G-Artists 	0.25
+G.Rev 	0.08
+G1M2 	0.18
+GCP1 	0.39
+GREZZO 	4.68
+GRIN 	4.34
+GSC Game World 	0.37
+Gaia (Sony) 	0.08
+Gaijin Entertainment 	4.87
+Gaijin Games 	0.46
+Game Arts 	33.41
+Game Brains 	0.57
+Game Freak 	28.36
+Game Life 	0.36
+Game Machine Studios 	1.36
+Game Republic 	4.7
+Game Sauce 	0.47
+Game Titan 	0.58
+GameCo 	0.03
+Gameinvest 	0.32
+Gameloft 	4.1
+Gameness Art Software 	0.05
+Games Farm 	0.61
+Gaming Minds Studios 	0.72
+Gammick Entertainment 	0.12
+Ganbarion 	3.14
+Gas Powered Games 	1.45
+Gaslamp Games 	0.08
+Gearbox Software 	41.77
+GenePool 	1.91
+Genius Sonority Inc. 	10.74
+Genki 	6.48
+Genuine Games 	5.0
+Gevo Entertainment 	1.63
+Ghost Games 	9.97
+Giants Software 	4.76
+Gimagin Games 	0.41
+Global A 	0.4
+Global Star Software 	0.16
+GlyphX Games 	0.26
+Glyphic Entertainment 	0.09
+Gogii Games 	0.57
+Good Science Studio 	43.63
+Good-Feel 	2.6
+Gorilla Games 	2.41
+Gorilla Systems 	4.17
+Goshow 	0.14
+Graffiti Entertainment 	0.47
+Graphic State 	0.76
+Grasshopper Manufacture 	6.73
+Gratuitous Games 	1.15
+Gravity-I 	0.27
+Griffin International 	0.63
+Griptonite Games 	31.91
+Guerilla Cambridge 	1.82
+Guerrilla 	21.06
+Guildford Studio 	0.45
+Gulti 	0.17
+GungHo 	0.9
+Gunnar Games 	0.79
+Gust 	4.39
+Gusto Games 	1.27
+HAL Labs 	47.66
+HB Studios Multimedia 	7.11
+Haemimont 	3.2
+Halfbrick Studios 	0.31
+HandMade Game 	1.0
+Handheld Games 	1.48
+Hangar 13 	5.25
+Happy Happening 	0.24
+Harmonix Music Systems 	85.12
+Hasbro Interactive 	0.48
+Headfirst Productions 	0.12
+Headgate 	0.02
+Headlock 	0.06
+Headstrong Games 	8.66
+Heavy Iron Studios 	30.44
+Helixe 	14.65
+Hellbent Games 	5.66
+Hello Games 	3.39
+Her Interactive 	0.58
+HexaDrive 	1.03
+High Impact Games 	4.16
+High Moon Studios 	25.51
+High Voltage Software 	27.6
+Hijinx Studios 	2.37
+Hit Maker 	0.43
+Hitmaker 	0.83
+Hoget 	0.08
+Hokus Pokus 	0.03
+Hoplite Research 	0.22
+Hot Lava Games 	0.25
+HotGen 	1.98
+Hothouse Creations 	1.2
+Housemarque 	0.18
+Hudson 	33.93
+Hudson Entertainment 	1.02
+Hudson Soft 	24.84
+Humagade 	1.48
+Human Entertainment 	0.33
+Human Head Studios 	1.36
+Human Soft 	5.41
+Humongous Entertainment 	1.99
+Hyde 	2.02
+Hydravision 	1.13
+Hyper-Devbox 	0.09
+Hyperspace Cowgirls 	0.6
+Hypnos 	0.3
+Hypnos Entertainment 	1.38
+Hypnotix 	2.11
+I-Imagine 	0.24
+IR Gurus 	0.89
+IR Gurus Interactive Ltd. 	0.26
+ITL 	1.15
+Icon Games 	0.36
+Idea Factory 	0.67
+Idol FX 	0.13
+Idol Minds 	2.58
+Ignition Entertainment 	1.43
+Illusion Softworks 	1.95
+ImaginEngine 	4.33
+Imagineer 	0.1
+Immersion Software & Graphics 	0.32
+Impressions Games 	0.1
+Impulse Games 	1.09
+InLight Entertainment 	0.07
+InXile Entertainment 	2.15
+Incinerator Games 	6.81
+Incognito Inc. 	8.84
+Independent Arts 	0.37
+Indi 	0.17
+Indie Built 	2.81
+Indies Zero 	10.06
+Inevitable Entertainment 	1.61
+Inferno Games 	0.02
+Infinite Interactive 	2.28
+Infinite Machine 	0.18
+Infinity Ward 	155.26
+Infogrames 	0.28
+Infogrames Sheffield 	0.04
+Inland Productions 	0.95
+Ino-Co 	0.03
+Insomniac Games 	29.09
+Intelligent Systems 	51.92
+InterActive Vision Games 	0.08
+InterServ International 	0.04
+Interactive Brains 	0.13
+Interchannel 	0.6
+Interchannel-Holon 	0.02
+Interplay 	0.24
+Inti 	2.62
+Inti Creates 	3.22
+Io Interactive 	25.29
+Ion Storm 	1.45
+Irem 	1.33
+Iridon Interactive AB 	0.18
+Iron Galaxy Studios 	2.06
+Iron Lore Entertainment 	0.12
+Ironclad Games 	0.13
+Irrational Games 	8.62
+Isopod Labs 	0.48
+Ivolgamus 	0.27
+Ivory Tower 	0.71
+JGI Entertainment 	1.94
+JV Games Inc. 	0.27
+Jack of All Games 	1.09
+Jaleco Entertainment 	1.07
+Jellyvision 	4.21
+Jester Interactive 	2.59
+Jet Black Games 	0.85
+JoWooD Entertainment AG 	0.04
+Joindots 	0.35
+Juice Games 	6.07
+Junction Point 	6.47
+Jupiter Corporation 	12.87
+Jupiter Multimedia 	0.14
+Just Add Monsters 	0.56
+Just For Fun 	0.1
+K2 	0.89
+K2 LLC 	4.47
+KCE Studios 	3.72
+KCEA 	1.49
+KCEJ 	37.86
+KCEK 	2.1
+KCEO 	1.22
+KCET 	47.42
+KING Art 	0.22
+KUNST-STOFF 	0.09
+Kadokawa 	0.55
+Kalypso 	1.87
+Kamui 	0.87
+Kando Games 	0.23
+Kaos Studios 	5.85
+Kat Games 	0.04
+Katauri Interactive 	0.02
+Keen Games 	2.84
+Kemco 	0.48
+Kheops Studio 	0.17
+Killaware 	0.08
+King of the Jungle 	0.04
+Klein Computer Entertainment 	0.18
+KnowWonder 	0.21
+Knowledge Adventure Inc. 	1.02
+Kodiak Interactive 	0.56
+Koei 	11.59
+Koei Canada 	0.15
+Koei Tecmo Games 	1.84
+Koei/Inis 	0.3
+Kojima Productions 	25.99
+Kokolo Corporation 	0.26
+Konami 	144.73
+Konami Computer Entertainment Hawaii 	10.67
+Konami Computer Entertainment Nagoya 	0.34
+Konami Software Shanghai 	0.09
+Koolhaus Games 	0.61
+Kouyousha 	2.51
+Krome Studios 	23.58
+Kronos Digital Entertainment 	0.36
+Kuju Entertainment 	4.43
+Kung Fu Factory 	0.4
+Kunos Simulazioni 	0.15
+Kush Games 	16.77
+Kuusou Kagaku 	1.26
+Kylotonn 	0.7
+LDW 	0.1
+LSP 	0.14
+Lab Rats Games 	1.32
+Land Ho! 	3.07
+Larian Studios 	0.99
+Le Cortex 	0.3
+Lead Pursuit 	0.04
+Left Field Productions 	2.7
+Legacy Interactive 	0.72
+Level 5 	68.72
+Leviathan Games 	0.14
+Lexis Numerique 	0.74
+Light Weight 	3.49
+LightBox Interactive 	0.58
+Lightning Fish Games 	1.15
+Lionhead Studios 	20.17
+Liquid Dragon Studios 	0.09
+Liquid Entertainment 	0.56
+Little Orbit 	0.53
+Locomotive Games 	3.71
+Longtail Studios 	2.51
+Loose Cannon Studios 	0.54
+Lost Toys 	0.45
+Lucas Learning 	0.32
+LucasArts 	30.95
+Lucky Chicken 	1.24
+Ludia 	0.32
+Ludia Inc. 	7.41
+M2 	2.76
+M4 Limited 	0.08
+MASA Group 	0.42
+MBA International 	0.12
+MTO 	6.13
+MachineGames 	7.16
+Mad Catz 	0.55
+Mad Doc Software 	0.52
+Magellan Interactive 	0.88
+Magenta Software 	1.52
+Magic Pixel Games 	0.46
+Magic Pockets 	16.17
+Magic Rings 	0.38
+MagicWand 	1.46
+Magicpot 	0.06
+Magix 	0.62
+Magnin & Associates 	0.06
+Mahou 	0.6
+Majesco Games 	1.03
+Mana Comp. Soft. 	0.04
+Marvelous 	3.08
+Marvelous AQL 	3.63
+Marvelous Entertainment 	3.71
+Marvelous Inc. 	1.79
+Mass Media 	25.53
+Massive Entertainment 	12.91
+Master Creating 	0.04
+Mastertronic 	0.05
+Mastiff 	1.93
+Matrix Software 	9.41
+Max Five 	0.1
+Maximum Family Games 	0.17
+Maximum Games 	0.83
+Maxis 	79.9
+Media Molecule 	8.54
+Media Vision 	2.78
+Mekensleep 	0.16
+Melbourne House 	4.56
+Melesta 	0.04
+Mentor Interactive 	0.08
+Mercury Steam 	4.21
+Mere Mortals 	0.22
+Merscom LLC 	0.4
+Metia Interactive 	0.04
+Metro 	0.78
+Metro Graphics 	0.48
+Metro3D 	0.17
+Metropolis Software 	0.16
+Micro Cabin 	0.37
+Microids 	0.68
+Microsoft Game Studios 	9.25
+Microsoft Game Studios Japan 	0.21
+Microvision 	0.52
+Mid Carolina Media 	0.16
+Midas Interactive Entertainment 	0.12
+Midway 	64.44
+Midway Studios - Austin 	3.25
+Midway Studios - Los Angeles 	2.0
+Midway Studios - Newcastle 	0.24
+Midway Studios - San Diego 	6.21
+Mikoishi 	0.12
+MileStone Inc. 	0.19
+Milestone 	0.24
+Milestone S.r.l 	6.66
+Million 	0.57
+Mind Candy 	3.08
+Minds-Eye Productions 	0.04
+Mindware Studios 	0.05
+Mistic Software 	2.4
+Mistwalker 	2.04
+Mitchell 	0.79
+Mix Max 	0.44
+Mobile 21 	0.16
+Mobius Entertainment 	0.72
+Monkey Bar Games 	7.75
+Monolith Productions 	14.61
+Monolith Soft 	9.13
+Monster Games Inc. 	7.86
+Monte Cristo Multimedia 	0.26
+Monumental Games 	1.25
+Moss 	0.47
+Most Wanted Entertainment 	0.39
+Mucky Foot Productions 	0.88
+Multimedia Intelligence Transfer 	0.05
+MumboJumbo 	2.04
+Mystic Software 	0.12
+N-Fusion Interactive Entertainment Corp. 	0.73
+NATSUME ATARI Inc. 	0.21
+NEC Interchannel 	0.05
+Nadeo 	0.83
+Namco 	122.14
+Namco Bandai Games 	24.13
+Namco Bandai Games America 	0.74
+NanaOn-Sha 	9.42
+Naps Team 	0.14
+Natsume 	9.5
+NaturalMotion 	0.7
+Naughty Dog 	90.78
+Nautilus 	0.77
+Navarre Corp 	0.1
+Nd Cube 	28.64
+Neko Entertainment 	5.56
+Neon Studios 	0.11
+Neopica 	0.16
+Nerve Software 	2.24
+NetherRealm Studios 	16.7
+Netherock Ltd. 	0.3
+Neverland 	6.95
+Neversoft Entertainment 	122.57
+New 	0.95
+Nex Entertainment 	6.4
+Next Entertainment 	0.27
+Next Level Games 	21.22
+Next Wave Team 	0.02
+Nfusion 	0.25
+Nicalis 	0.28
+Nightlight Studios 	0.07
+Nihilistic 	5.15
+Nikitova Games 	0.28
+Ninja Studio 	0.11
+Ninja Theory 	7.93
+Nintendo 	1063.49
+Nintendo EAD Tokyo 	17.4
+Nippon Ichi Software 	8.75
+Nitro Games 	0.14
+Nitro+ 	0.12
+Nival Interactive 	0.08
+Nixxes Software 	4.81
+NoWay Studio 	0.07
+Nobilis 	0.7
+Noise Factory 	0.26
+Noise Inc. 	1.05
+Nordcurrent 	0.6
+Nordic Games Publishing 	0.43
+Novarama 	2.63
+Now Production 	10.64
+Ntreev Soft 	0.28
+NuFX 	8.94
+Nuevo Retro Games 	1.09
+Nvizzio Creations 	0.04
+O-Games 	0.45
+Oberon Media 	0.05
+Obsidian Entertainment 	27.16
+Oddworld Inhabitants 	6.45
+Office Create 	7.16
+OfficeCreate 	5.77
+Omega Force 	54.55
+One Man Band 	0.09
+OneNine Studios 	0.53
+Open Sesame 	0.74
+Opera House 	0.12
+Opus 	3.07
+Opus Studio 	0.06
+Ornith 	0.54
+Osaka Studio 	0.16
+Osiris Studios 	0.42
+Other Ocean Interactive 	0.55
+Outrage Games 	0.6
+Overkill Software 	2.11
+Overworks 	2.53
+Oxygen Interactive 	1.31
+PAWS 	0.04
+Pacific Century Cyber Works 	0.52
+Pacific Coast Power & Light 	4.44
+Page 44 Studios 	11.47
+Pam Development 	4.87
+Pandemic Studios 	35.2
+Panic Button 	0.76
+Panther Software 	0.06
+Paon Corporation 	2.72
+Papaya Studios 	13.05
+Paprikari 	0.08
+Papyrus 	0.02
+Paradigm Entertainment 	9.48
+Paradox Development 	5.26
+Paradox Development Studio 	0.2
+Paradox Interactive 	0.09
+Pax Softonica 	0.73
+Pendulo Studios 	0.25
+Pentavision Entertainment 	0.21
+People Can Fly 	0.12
+Performance Designed Products 	0.36
+Petroglyph 	0.43
+Phantagram 	0.94
+Phenomedia 	0.04
+Phoenix Entertainment 	0.45
+Phoenix Games Studio 	1.48
+Phoenix Interactive Entertainment 	0.88
+Pinegrow 	0.16
+Pipe Dream Interactive 	2.61
+Piranha Bytes 	2.38
+Piranha Games 	3.56
+Pitbull Syndicate 	3.53
+Pivotal Games 	6.66
+Pixel Tales 	0.37
+Planet Interactive 	0.05
+Planet Moon Studios 	4.91
+Platinum Egg 	0.37
+PlatinumGames 	15.01
+Plato 	0.13
+Playbox Limited 	0.73
+Playground Games 	4.96
+Playrix Entertainment 	0.2
+Playstos Entertainment 	0.08
+Pocket Studios 	3.28
+Pocketeers 	2.43
+Point of View 	10.96
+Polygon Magic 	1.17
+Polyphony Digital 	130.38
+PopCap 	11.89
+PopTop Software 	0.15
+Powerhead Games 	4.98
+Premium Agency 	0.25
+Presto Studios 	0.68
+ProSoft 	0.18
+Prograph 	0.06
+Project Aces 	7.52
+Project Soul 	2.65
+Prokion 	0.52
+Prolific 	0.61
+Pronto Games 	0.24
+Propaganda Games 	4.43
+Prope 	1.66
+Pseudo Interactive 	1.16
+Psikyo 	0.25
+Psygnosis 	1.53
+Psyonix 	1.44
+Pterodon 	0.04
+Purple Hills 	0.18
+PuzzleKings 	0.13
+Pyramid 	1.93
+Pyro Studios 	1.7
+Q Entertainment 	3.15
+Q-Games 	1.3
+Quantic Dream 	9.87
+Quest 	1.0
+Quicksilver Software 	0.17
+RED Entertainment 	2.54
+RFX Interactive 	0.83
+Racjin 	6.19
+Radical Entertainment 	28.02
+Radius9 	0.11
+Rage Software 	3.03
+Rainbow S.p.A. 	0.04
+Rainbow Studios 	42.22
+Rare Ltd. 	36.93
+Raster 	1.06
+Ratbag 	1.95
+Raven Software 	18.86
+Raylight Studios 	0.48
+Razorback Developments 	0.72
+Razorworks 	1.49
+Razorworks Studios 	3.95
+Re-Logic 	0.46
+React Games 	0.02
+Ready at Dawn 	19.09
+Realism Ltd 	1.43
+Reality Pump 	3.8
+Realmforge Studios 	0.19
+Realtime Worlds 	3.49
+Rebellion 	19.75
+Red 5 Software 	0.03
+Red Fly Studio 	4.05
+Red Storm Entertainment 	11.63
+Red Tribe 	1.98
+Red Wagon Games 	0.1
+Red Zone Entertainment 	0.77
+RedLynx 	2.03
+Reflections Interactive 	29.82
+Related Designs 	0.59
+Relic 	5.2
+Remedy Entertainment 	5.32
+Renegade Kid 	0.82
+Respawn Entertainment 	9.83
+Retro Studios 	29.04
+Revistronic 	0.16
+Revolution Software 	0.91
+Rhino Studios 	0.43
+Rising Star Games 	0.5
+Robomodo 	5.46
+Rockstar Leeds 	47.2
+Rockstar London 	3.68
+Rockstar North 	238.95
+Rockstar San Diego 	60.69
+Rockstar Studios 	7.79
+Rockstar Toronto 	13.13
+Rockstar Vancouver 	1.88
+Rockstar Vienna 	2.67
+Rocksteady Studios 	49.19
+Ronin Entertainment 	0.62
+Route 1 Games 	1.97
+Roxor Games 	0.15
+Ruffian Games 	2.23
+Runecraft 	3.23
+Runic Games 	0.14
+Runtime 	0.12
+Ryu ga Gotoku Studios 	6.52
+S-Neo 	0.31
+SCE Japan Studio 	15.41
+SCE Santa Monica 	31.78
+SCE Studio Cambridge 	1.27
+SCEA 	11.42
+SCEA San Diego Studios 	22.83
+SCEA Sports Studio 	1.5
+SCEE 	7.93
+SCEE London Studio 	27.73
+SCEI 	7.12
+SCEJ 	1.75
+SCi 	1.76
+SEGA Racing Studio 	2.18
+SEK Ost 	0.04
+SME Dynamic Systems Limited 	0.38
+SNK 	0.53
+SNK Playmore 	6.52
+SScholastic Media 	0.95
+Sabarasa Entertainment 	0.08
+Saber Interactive 	1.43
+Sabertooth Games 	0.14
+Sacnoth 	0.56
+Saffire 	2.38
+Sand Grain Studios 	12.23
+Sandlot 	1.66
+Sandlot Games 	0.05
+Sanrio Digital 	0.46
+Santa Cruz Games 	0.81
+Santa Entertainment 	0.22
+Sanuk Games 	0.79
+Sanzaru Games 	5.97
+Sarbakan Inc. 	0.19
+Savage Entertainment 	4.44
+Scientifically Proven 	0.35
+Secret Level 	6.23
+Secret Stash Games 	0.44
+Sega 	31.06
+Sega AM2 	10.09
+Sega AM3 	2.1
+Sega Studios San Francisco 	1.98
+Sega Toys 	0.56
+Sennari Interactive 	1.03
+Sensory Sweep 	2.53
+Seta Corporation 	0.65
+Seven45 Studios 	0.52
+Shaba Games 	11.56
+Shade 	0.62
+Shift 	1.8
+Shin'en 	2.13
+Shiny Entertainment 	15.75
+Sick Puppies 	0.28
+Sidhe Interactive 	4.13
+Silicon Dreams 	0.33
+Silicon Knights 	4.65
+Silicon Studio 	2.11
+Silver Wish Games 	0.12
+SilverBirch Studios 	0.17
+SimBin 	0.52
+Simon & Schuster 	0.69
+Sims 	0.91
+SingleTrac 	0.11
+Sinister Games 	0.6
+Skip Ltd. 	0.38
+Skonec 	0.14
+SkyRiver Studios 	0.19
+Skyworks Technologies 	2.91
+Slam Games 	0.41
+Slant Six 	7.36
+Sledgehammer Games 	26.67
+Slightly Mad Studios 	12.2
+Slitherine 	0.1
+Smack Down Productions 	1.55
+Small Rockets 	0.04
+Smart Bomb Interactive 	1.04
+SmartDog 	0.11
+Smilebit 	1.66
+Snap Dragon Games 	0.08
+Snapdragon 	0.12
+Snowblind Studios 	10.89
+SoftMax 	0.44
+Software Creations 	0.68
+SolWorks 	0.47
+Sonic Powered 	0.31
+Sonic Team 	72.14
+Sonnori 	0.06
+Sony Bend 	6.53
+Sony Interactive Entertainment 	0.53
+Sony Online Entertainment 	4.6
+SouthPeak Games 	0.26
+Southend Interactive 	0.5
+Spark Unlimited 	10.8
+Spellbound 	0.65
+Spicy Horse 	2.39
+SpiderMonk 	0.14
+Spiders 	0.57
+Spike 	15.07
+Spike Chunsoft 	4.03
+Splash Damage 	3.93
+Sports Interactive 	13.27
+Square Enix 	99.93
+SquareSoft 	109.28
+Squashy Software 	0.04
+Stainless Games 	0.92
+Stainless Steel Studios 	0.1
+Stalker Entertainment 	0.33
+Starbreeze 	5.49
+Starfish 	1.74
+Starfish SD 	1.06
+Starsphere Interactive 	0.28
+Stealth Studios 	0.55
+Steel Monkeys 	3.14
+Sting 	2.52
+Storm City Games 	1.69
+Stormfront Studios 	16.21
+Stormregion 	0.31
+Strangelite 	0.04
+Strawdog Studios 	0.04
+Studio 33 	0.54
+Studio Archcraft 	0.1
+Studio Gigante 	1.46
+Studio Liverpool 	4.54
+Studio Saizensen 	0.46
+StudioBlack Games 	0.14
+Success 	0.56
+Sucker Punch 	22.83
+Sumo Digital 	22.35
+Sun-Tec 	0.41
+SunSoft 	0.84
+Sunflowers Interactive 	0.26
+Sunrise Interactive 	0.86
+Super Empire 	0.06
+Super X Studios 	0.97
+SuperBot Entertainment 	1.91
+SuperMassive Games 	4.11
+SuperVillain Studios 	2.1
+Supersonic Software 	0.34
+Surreal Software 	4.72
+Suzak 	1.72
+Swingin' Ape 	0.55
+Swordfish Studios 	1.03
+Synetic 	0.13
+Syscom 	0.26
+System 3 	0.74
+System Prisma 	0.08
+SystemSoft 	0.08
+T&E Soft 	1.7
+TDK Mediactive 	0.02
+THQ 	47.77
+THQ Australia 	0.53
+THQ Digital Studio Phoenix 	2.01
+TOSE 	53.95
+TOYBOX 	1.12
+TT Fusion 	36.06
+TT Games 	79.9
+Tabot 	0.18
+Tactical Development 	0.22
+Taito Corporation 	18.25
+Takara 	2.67
+Takara Tomy 	2.06
+Take-Two Interactive 	5.74
+Tamsoft 	4.99
+Tango Gameworks 	8.07
+Taniko 	0.69
+Tantalus Interactive 	8.12
+Tantatus 	1.42
+Targem Games 	0.05
+Tate Interactive 	0.07
+Team 17 	6.1
+Team Bondi 	11.74
+Team Fusion 	9.08
+Team Ninja 	21.66
+Team Soho 	7.08
+Team6 Game Studios 	0.06
+Techland 	25.13
+Tecmo 	7.68
+Tecmo Koei Canada 	0.38
+Tecmo Koei Games 	0.44
+Tectonic Studios 	0.17
+Telegames 	1.16
+Telenet 	0.16
+Telltale Games 	3.21
+Tenky 	0.31
+Tenyo 	0.86
+Terminal Reality 	15.01
+Teyon 	1.55
+ThatGameCompany 	0.42
+The Behemoth 	0.38
+The Coalition 	2.69
+The Code Monkeys 	3.09
+The Fun Pimps Entertainment LLC 	0.38
+The Game Factory 	0.64
+The Learning Company 	0.54
+The Odd Gentlemen 	0.03
+The Sims Studio 	37.83
+The Tangentlemen 	0.04
+The Workshop 	0.59
+Tiertex Design Studios 	0.24
+Tigon 	0.09
+Tilted Mill 	0.12
+TimeGate Studios 	0.61
+Titus Software 	2.27
+Tiwak 	0.06
+Toka 	0.16
+Tommo 	0.4
+Tomy Corporation 	1.72
+Toolbox Design 	1.73
+Top Heavy Studios 	0.41
+TopWare Interactive 	0.33
+Tornado Studios 	0.53
+Torus Games 	7.14
+Tose Software 	0.04
+Totally Games 	1.73
+Touchdown Entertainment 	0.04
+Toys for Bob 	37.43
+Tranji 	0.03
+Transmission Games 	0.27
+Traveller's Tales 	158.47
+Treasure 	3.17
+Trendy Entertainment 	0.04
+Treyarch 	206.28
+Tri-Ace 	14.06
+Tri-Crescendo 	2.44
+Trickstar Games 	0.47
+Trilobyte 	1.57
+Trine Games 	0.24
+Trion Worlds 	3.59
+Triple Eh? Ltd 	0.02
+Tripwire Interactive 	0.37
+Triumph Studios 	2.19
+Turbine Inc. 	0.04
+Turn 10 	36.23
+Turtle Rock Studios 	3.59
+Twelve Games 	0.1
+Twisted Pixel Games 	0.8
+Two Tribes 	0.58
+UBlart Montpellier 	6.18
+UDS 	3.32
+UFO Interactive 	1.51
+UGA 	0.27
+Uacari 	0.76
+Ubisoft 	265.09
+Ubisoft Annecy 	0.41
+Ubisoft Barcelona 	0.16
+Ubisoft Bulgaria 	0.6
+Ubisoft Casablanca 	2.05
+Ubisoft Milan 	1.91
+Ubisoft Montpellier 	27.04
+Ubisoft Montreal 	216.58
+Ubisoft Nagoya 	0.5
+Ubisoft Osaka 	0.07
+Ubisoft Paris 	29.91
+Ubisoft Porto Alegre 	0.1
+Ubisoft Quebec 	17.87
+Ubisoft Reflections 	3.98
+Ubisoft Romania 	4.8
+Ubisoft Sao Paulo 	0.43
+Ubisoft Shanghai 	22.95
+Ubisoft Shanghai/Paris 	2.16
+Ubisoft Sofia 	2.83
+Ubisoft Toronto 	4.45
+Ubisoft Vancouver 	1.91
+United Front Games 	6.3
+Universomo 	0.13
+VIS Entertainment 	5.4
+VSTEP 	0.12
+VU Games 	1.72
+Valcon Games 	0.17
+Valhalla Game Studios 	0.13
+ValuSoft 	1.51
+Valve Software 	38.28
+Vanguard 	0.22
+Vanilla Ware 	1.22
+Vanillaware 	3.78
+Vanpool 	0.08
+Various 	0.36
+Vatra 	0.92
+Velez & Dubail 	0.31
+Venom Games 	2.02
+Vicarious Visions 	113.9
+Vicious Cycle 	5.15
+Victor Interactive Software 	1.43
+Vigil Games 	6.32
+Vingt-et-un Systems 	4.52
+Vir2L Studios 	0.71
+Virtual Air Guitar Company 	0.27
+Virtual Play Inc. 	0.04
+Virtual Toys 	11.12
+Virtucraft 	1.92
+Virtuos 	12.4
+Visceral Games 	24.15
+Visual Concepts 	145.77
+Visual Impact 	6.36
+Visual Sciences 	0.24
+Vivarium 	1.26
+Vivendi Games 	0.74
+Vogster 	0.15
+Void Productions 	0.23
+Volatile Games 	0.99
+Volition Inc. 	45.71
+Voxler 	0.07
+WB Games Montreal 	8.34
+WBIE 	1.5
+WXP 	2.57
+War Drum Studios 	1.08
+Warashi 	0.24
+Wargaming.net 	0.6
+Warner Bros. Interactive Entertainment 	0.29
+Warthog 	4.24
+WayForward 	13.82
+Webfoot Technologies 	11.75
+Westwood Studios 	0.4
+White Birds Productions 	0.04
+Whitebear 	0.19
+Wicked Studios 	0.16
+Wicked Witch Software 	0.15
+Wide Games 	0.16
+WideScreen Games 	0.7
+Wideload Games Inc. 	1.32
+WildTangent 	0.7
+Wildfire Studios 	0.62
+Will 	0.06
+WinkySoft 	0.7
+Wizarbox 	0.76
+WorkJam 	0.37
+Wow Entertainment 	2.39
+XPEC Entertainment Inc. 	0.22
+XS Games 	0.09
+Xpec 	4.72
+Y's K 	0.49
+Yacht Club Games 	0.64
+Yager 	2.46
+Yoostar Entertainment Group 	0.15
+Yuke's 	94.96
+Zed Two Limited 	0.39
+Zen Studios 	0.86
+Zener Works 	0.73
+ZeniMax Media 	4.36
+ZeptoLab 	0.14
+Zerodiv 	0.56
+Zeroscale 	0.24
+Zig Zag 	0.15
+ZigZagIsland 	0.05
+Zindagi Games 	0.56
+Zipper Interactive 	27.75
+Zoe Mode 	11.78
+Zombie 	0.3
+Zombie Studios 	1.56
+Zono Inc. 	0.53
+Zoo Digital Publishing 	0.04
+Zoo Games 	4.58
+Zoom 	0.55
+Zoonami Ltd. 	0.11
+ZootFly 	0.91
+Zushi Games Ltd 	0.18
+Zuxxez 	0.06
+dtp Young Entertainment AG 	0.02
+eGames 	0.62
+eV Interactive 	0.26
+exozet 	0.14
+h.a.n.d. Inc. 	10.2
+iNiS 	4.38
+iRock Interactive 	0.17
+iWin 	0.97
+id Software 	8.95
+n-Space 	14.7
+neo Software 	2.44
+odenis studio 	0.18
+oeFun 	0.04
+puzzle.tv 	0.24
+syn Sophia 	6.61
+zSlide 	0.06
