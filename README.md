@@ -92,7 +92,7 @@ completeResults.txt will have the results for our map reduce problem
 
 #### Output -  For each year, Maximum number of sales
 
-![ResultsChart](ResultsChart.PNG)
+![Results Chart](Results Chart.PNG)
 
 
 
