@@ -90,6 +90,10 @@ completeResults.txt will have the results for our map reduce problem
 
 ![1](1.PNG)
 
+#### Output -  For each year, Maximum number of sales
+
+![ResultsChart](ResultsChart.PNG)
+
 
 
 Contact GitHub API Training Shop Blog About
