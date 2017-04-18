@@ -89,6 +89,5 @@ completeResults.txt will have the results for our map reduce problem
 ![Results Chart](Results Chart.PNG)
 
 
-
 Contact GitHub API Training Shop Blog About
 © 2017 GitHub, Inc. Terms Privacy Security 
